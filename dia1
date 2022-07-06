@@ -30,4 +30,6 @@ git    -> controle de versao , local
 5. Mudanças antes de ser comitado, so funciona se o arquivo já
 estiver sendo rastreado ! 
 
-6. Resetar os erros 
+6. Resetar os erros , com o checkout
+
+7. Como tirar o arquivo da área do staging(pronta para o commit)
