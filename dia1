@@ -1,0 +1,21 @@
+
+1. Controle de versão (versionamento)
+
+- Sistema responsavel por Controlar diferentes versões do projeto 
+- Snapshots dos estados 
+
+2. Comandos git 
+
+github -> plataforma que armazena os repositorios(projetos) ! 
+git    -> controle de versao , local 
+
+3. Subir no github 
+
+Configurações iniciais 
+Iniciar o repositório git 
+Ciclo de vida dos pacotes 
+    - untracked  -> não foi visto pelo o git 
+    - unmodified -> o git enxerga o arquivo , mas nao houve modificação 
+    - modified   -> modificou 
+    - staged     -> versão pré-comitada  
+    teste
