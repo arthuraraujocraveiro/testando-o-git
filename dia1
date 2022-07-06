@@ -11,11 +11,21 @@ git    -> controle de versao , local
 
 3. Subir no github 
 
-Configurações iniciais 
-Iniciar o repositório git 
-Ciclo de vida dos pacotes 
+1. Configurações iniciais 
+2. Iniciar o repositório git 
+3. Ciclo de vida dos pacotes 
     - untracked  -> não foi visto pelo o git 
     - unmodified -> o git enxerga o arquivo , mas nao houve modificação 
     - modified   -> modificou 
     - staged     -> versão pré-comitada  
-    teste
+4. Verificar os Logs
+    - decorate 
+    - shorlog 
+    - --author="arthur"
+    - shortlog -sn 
+    - grapy 
+    - show 
+    - git show <hash>
+
+5. Mudanças antes de ser comitado, so funciona se o arquivo já
+estiver sendo rastreado ! 
