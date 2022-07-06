@@ -29,3 +29,5 @@ git    -> controle de versao , local
 
 5. Mudanças antes de ser comitado, so funciona se o arquivo já
 estiver sendo rastreado ! 
+
+6. Resetar os erros 
