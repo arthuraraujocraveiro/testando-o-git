@@ -40,7 +40,50 @@ estiver sendo rastreado !
 9. Mexendo com o git remote 
 	- adicionar um link de um repositorio remoto com nome personalizado 
 	- verificar o link 
-	- fazer um push (enviar) -> git push -u origin main 
+	- fazer um push (enviar) -> git push -u origin <branch> 
 	- para que ser a opcao -u 
 
-10. 
+10. Fazendo um clone do repositório 
+
+11. O que é um branch ? 
+
+	- Pode alterar o projeto principal sem alterar a branch pricipal 
+	- Facilmente " desligavel  "
+	- Multiplas pessoas trabalhando 
+	- Evita conflitos 
+
+12. Cria uma branch e verifique ! 
+git checkout -b <nome>
+
+13. Listar , Navegar , Deletar , Adicionar 
+git branch , git branch -D , git checout -b <nome>
+
+14. Fazer a uniao -> merge e rebase 
+
+15. Merge 
+Como funcioanndo :
+faz um commit juntando todas as alterações da branch secundária e da principal !
+
+Vantagem                           x  Desvantagem
+Operaçao não destrutiva               commit extra e histórico poluído
+
+16. Rebase 
+Ele joga as alterações para o inicío da fila 
+
+Vantagem                           x  Desvantagem
+evita commits extras                  perde a ordem cronológica
+histórico linear
+
+17. Arquivo -> .gitignore
+
+18. Git stash 
+responsável por guardar modificações que ainda não foram comitadas em um arquivo
+ou em forma de pilha, com isso o usuário pode reutilizar a modificação armazenada 
+posteriormente !
+
+git stash , git stash apply , git stash list , git stash clear 
+
+19. Criando Tags e subindo a tag no github !
+
+20. Usando o git revert , para que serve e como usa-lo , qual a funcionalidade ?
+ 
