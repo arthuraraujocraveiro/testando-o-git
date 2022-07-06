@@ -33,4 +33,14 @@ estiver sendo rastreado !
 6. Resetar os erros , com o checkout
 
 7. Como tirar o arquivo da área do staging(pronta para o commit)
-askaksjaksa
+
+8. Como funciona o git reset e suas variações ? 
+	--mixed , --soft , --hard , git reset HEAD
+
+9. Mexendo com o git remote 
+	- adicionar um link de um repositorio remoto com nome personalizado 
+	- verificar o link 
+	- fazer um push (enviar) -> git push -u origin main 
+	- para que ser a opcao -u 
+
+10. 
